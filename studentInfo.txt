@@ -1,0 +1,10 @@
+heer, 5
+nirali, 6
+prasham, 7
+pratyaksh, 8
+yashvi, 8
+heer, 1
+nirali, 2
+dhruvi, 1
+heer, 2
+nirali, 3

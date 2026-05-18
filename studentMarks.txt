@@ -1,0 +1,12 @@
+student roll number: 5, student marks: ['44', '55', '70']
+student roll number: 6, student marks: ['88', '99', '77']
+student roll number: 7, student marks: ['88', '99', '100']
+student roll number: 8, student marks: ['33', '55', '77']
+student roll number: 8, student marks: ['6', '55', '33']
+student average marks: 48.666666666666664
+student average marks: 48.666666666666664
+student average marks: 48.666666666666664
+student roll number: 2, student marks: ['55', '33', '22']
+Roll No: 2, Name: heer, Average: 55.00, Grade: C
+Roll No: 3, Name: nirali, Average: 40.33, Grade: C
+Roll No: 1, Name: dhruvi, Average: 33.00, Grade: Fail
